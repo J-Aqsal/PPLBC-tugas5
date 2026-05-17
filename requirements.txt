@@ -2,3 +2,4 @@ flask
 psycopg[binary]
 python-dotenv 
 azure-storage-blob
+gunicorn
